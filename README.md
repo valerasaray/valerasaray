@@ -4,7 +4,7 @@
 ### Сфера интересов: анализ данных и машинное обучение
 
 #### В данный момент обучаюсь основам data science, участвую в хакатонах, веду pet проекты
-![Иллюстрация к проекту](https://github.com/valerasaray/valerasaray/home.gif)
+![Иллюстрация к проекту](/home.gif)
 
 Телеграм: [@valerasaray](http://valerasaray.t.me)
 
