@@ -1,8 +1,8 @@
-<h1 align="center">Арсений Соколов</h1>
-<h1 lign="center">(псевдоним Валера Два Сарая)</h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="center"><img src="https://www.gifcen.com/wp-content/uploads/2022/01/shrek-gif-2.gif" height="75"/><a href="#" target="_blank">Арсений Соколов</a><img src="https://www.gifcen.com/wp-content/uploads/2022/01/shrek-gif-2.gif" height="75"/>
+</h2>
+<h2 align="center">(псевдоним Валера Два Сарая)</h2>
 
-<h2 align="center"> Я студент третьего курса МАИ кафедры 806 "Вычислительная математика и программирование"</h2>
+<h2> Я студент третьего курса МАИ кафедры 806 "Вычислительная математика и программирование"</h2>
 
 ### Сфера интересов: анализ данных и машинное обучение
 
