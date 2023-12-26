@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/pn3Lz4pDdB2K2tfOgC/giphy.gif" height="75"/><a href="#" target="_blank">Арсений Соколов</a><img src="https://media.giphy.com/media/tn3Ej47sHXpgaxn3FZ/giphy.gif" height="75"/>
+<h1 align="center"><img src="https://media.giphy.com/media/N2HqhmNpzBygqkVo7F/giphy.gif" height="75"/><a href="#" target="_blank">Арсений Соколов</a><img src="https://media.giphy.com/media/2SUcSZq8KPzjAUjOH6/giphy.gif" height="75"/>
 </h2>
 <h2 align="center">(псевдоним Валера Два Сарая)</h2>
 
