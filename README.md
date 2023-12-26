@@ -10,4 +10,4 @@
 
 Телеграм: [@valerasaray](http://valerasaray.t.me)
 
-Почта: [my@vsaray.ru](my@vsaray.ru)
+Почта: [my@vsaray.ru](vs@vsaray.ru)
