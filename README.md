@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.gifcen.com/wp-content/uploads/2022/01/shrek-gif-2.gif" height="75"/><a href="#" target="_blank">Арсений Соколов</a><img src="https://media.giphy.com/media/tn3Ej47sHXpgaxn3FZ/giphy.gif" height="75"/>
+<h1 align="center"><img src="https://media.giphy.com/media/pn3Lz4pDdB2K2tfOgC/giphy.gif" height="75"/><a href="#" target="_blank">Арсений Соколов</a><img src="https://media.giphy.com/media/tn3Ej47sHXpgaxn3FZ/giphy.gif" height="75"/>
 </h2>
 <h2 align="center">(псевдоним Валера Два Сарая)</h2>
 
